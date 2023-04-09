@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px;
+}
+
+.profile {
+  height: 80px;
+  width: 80px;
+}
+
+.userName {
+  font-weight: 900;
+  color: rgb(5, 5, 46);
+}
+
+.aboutUser {
+  color: rgb(39, 36, 36);
+}
